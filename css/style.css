@@ -3,7 +3,7 @@ body{
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: #170C04;
   max-width: 1144px;
-  background: url("/img/71.png") no-repeat 100% 0%;
+  background: url("../img/71.png") no-repeat 100% 0%;
 
 }
 .main{
@@ -168,8 +168,8 @@ img{
 
  content: "";
   position: absolute;
-  background: url("/img/Vector.png") no-repeat, 
-              url("/img/images1.png") no-repeat;
+  background: url("../img/Vector.png") no-repeat, 
+              url("../img/images1.png") no-repeat;
 
 }
 
@@ -563,7 +563,7 @@ h2{
   box-shadow: -5px 5px 15px 10px gray;
   border-radius: 10px;
   padding: 30px;
-  background: url('/img/Group1.png') no-repeat right 30px bottom 30px, url('/img/Group.png') no-repeat left 30px top 30px;
+  background: url('../img/Group1.png') no-repeat right 30px bottom 30px, url('../img/Group.png') no-repeat left 30px top 30px;
 }
 .testimonal__userpic{
   width: 30px;
@@ -613,7 +613,7 @@ h5{
   gap: 96px;
   width: 100%;
   padding: 102px 65px 102px 69px;
-  background: url('/img/blue.png') no-repeat center /100% auto;
+  background: url('../img/blue.png') no-repeat center /100% auto;
 
   
 }
@@ -672,7 +672,7 @@ footer{
   width: 100%;
   justify-content: center;
   align-items: center;
-  background: url("/img/black.png") no-repeat center / 100% 100%;
+  background: url("../img/black.png") no-repeat center / 100% 100%;
 }
 footer a{
   color: #FFFFFF;
